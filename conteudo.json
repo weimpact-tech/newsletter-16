@@ -1,0 +1,119 @@
+{
+  "previa": "<b>1 ano da cartilha WEPs para startups</b>",
+  "artigoDestaque": {
+    "numeroEdicao": "16",
+    "mensagemSpam": "Não queremos ir para o spam! =) selecione este email como “confiável” ou mova-o para a Caixa de Entrada.",
+    "img": "./img/Imagem_Destaque_N16.png",
+    "alt": "Imagem padrão do evento “1 ano da cartilha WEPs” + 26 de julho | 17h (abaixo)",
+    "titulo": "Hora de dar novos passos! links de fundo bege na style= \"color: #520b9e\"!!!!!!!!!!",
+    "texto": [
+      "Em julho, comemoramos 1 ANO  da Cartilha Princípios de Empoderamento das Mulheres para Startups, e não podíamos deixar de celebrar este marco de um material que já ajudou a inserir a cultura do empoderamento feminino, diversidade e inclusão no DNA de centenas de startups.",
+      "Agora, queremos dar novos passos nessa jornada - e te convidamos a se juntar a nós! No dia 26 de julho, às 17h, vamos reunir o time criador da cartilha e empreendedoras para falar sobre cases reais de implementação dos WEPs (sigla em inglês  para os Princípios, criados pela ONU) e te ajudar a superar desafios nesse caminho.",
+      "Participe do evento  evento <b>\"1 ano da cartilha WEPs para Startups\"!</b>"
+    
+    ],
+    "linkBotao": "https://www.weimpact.tech/ecommerce-unbox/",
+    "botao": "[Quero participar!] "
+  },
+  "compartilhe": {
+    "texto": [
+      "Está aproveitando a leitura?",
+      "Que tal compartilhar essa edição da WE Impact News com outras empreendedoras e empreendedores da sua rede de contatos? 😉"
+    ]
+  },
+  "weImpactNetwork": {
+    "tituloSecao": "#WIN – WE Impact Network",
+    "titulo": "Da porta pra dentro... e da porta pra fora",
+    "img": "./img/Foto_WIN_N16.png",
+    "alt": "Laura Plurie BR",
+    "linkedinAutora": "",
+    "nomeAutora": "Laura Salles",
+    "descricaoAutora": "cofundadora e CEO da edutech Plurie br",
+    "texto": [
+     "Que a diversidade torna negócios mais saudáveis, produtivos, lucrativos e inovadores não é novidade! O que muitas lideranças ainda tem dúvidas é sobre como implementar esses valores na cultura interna e externa da sua startup!",
+     "Para ajudar nessa missão, entrevistamos Laura Salles, cofundadora e CEO da edutech Plurie br. Ela explica melhor sobre esses benefícios, compartilha cases de sucesso e conselhos valiosos de como promover a D&I em todos os cantos da sua empresa!"
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://www.weimpact.tech/mulheres-investidoras/",
+    "botao": "[Ler Artigo]"
+  },
+  "diversidadeNaPratica": {
+    "tituloSecao": "#DiversidadenaPrática",
+    "titulo": "Mulheres negras investindo",
+    "img": "./img/Imagem_DiversidadenaPratica_N16.png",
+    "alt": "foto do projeto",
+    "texto": [
+ "Fundada por Luana Ozemela, a BlackWin apoia mulheres negras a se tornarem investidoras-anjo, conectando-as ao ecossistema de inovação e a oportunidades de investimento em negócios liderados também por pessoas negras – que, segundo o Crunchbase,  recebem apenas 1,2% de todo o capital de risco investido em startups.",
+ "O movimento convida ainda pessoas brancas da indústria de investimento que querem ver mais equidade na alocação de capital para compartilhar suas experiências ou co-investir."
+
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": ["texto lista JSON", "texto lista JSON"],
+    "linkBotao": "https://forbes.com.br/carreira/2021/12/nova-diversidade-empresas-buscam-profissionais-40/",
+    "botao": "[Saiba mais]"
+  },
+  "dicaDaCEO": {
+    "tituloSecao": "#DicadaCEO",
+    "titulo": "Título JSON",
+    "img": "./img/Foto_DicadaCEO_N16.png",
+    "alt": "Foto Jana Ramos",
+    "texto": [
+   "“Vejo uma grande tendência no Community Led Growth! Criar uma comunidade pode ser um motor de tração muito poderoso para uma startup.",
+   "Sugiro que as fundadoras comecem a criar estratégias para conquistar brand lovers (ou amantes da marca), usuários que gostam, indicam e defendem a empresa a todo custo.",
+   "Um bom storytelling, gamificação e fóruns de interação são algumas estratégias que contribuem para isso.”"
+    ],
+    "linkedinAutora": "",
+    "nomeAutora": "Jana Ramos",
+    "descricaoAutora": "CEO e fundadora da Growth Lovers. Confira mais dicas no [blog WE Impact]."
+  },
+  "elasImpactam": {
+    "tituloSecao": "#ElasImpactam",
+    "img": "./img/Imagem_ElasImpactam_N16.png",
+    "alt": "mulheres + gráfico",
+    "titulo": "O Venture Capital mudou para quem?",
+    "texto": [
+     "Em meio a tempos turbulentos para o Venture Capital, as mulheres fundadoras permanecem resilientes. Segundo o PitchBook, no primeiro semestre de 2022, elas levantaram US$ 20,8 bilhões - mais de 93% do levantado no mesmo período de 2021.",
+    "Mesmo em tempo de recordes e saldos positivos, os desafios impostos pelo gênero afastavam essas mulheres do capital. As lideranças femininas já aprenderam a lidar com as adversidades para obter sucesso em suas startups. O que  elas podem ensinar neste momento?"
+    ],
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://forbes.com.br/carreira/2021/12/nova-diversidade-empresas-buscam-profissionais-40/",
+    "botao": "[Leia no nosso blog]"
+  },
+  "naMidia": {
+    "tituloSecao": "#NaMídia",
+    "img": "./img/NasMidias_N16.png",
+    "alt": "Unbox",
+    "titulo": "#InvestidaWEImpact capta mais R$ 7,5 milhões",
+    "texto": ["No nosso portfólio desde 2021, a Unbox acaba de fechar uma nova rodada de captação com sucesso! Apostando na startup mais uma vez, a WE Impact foi uma das investidoras, que contou também com aportes de um fundo internacional."],
+    "linkBotao": "https://www.linkedin.com/feed/update/urn:li:activity:6884250856821198848/?actorCompanyId=37821762",
+    "botao": "[Ler notícia]"
+  },
+  "nasRedes": {
+    "tituloSecao": "#NasRedes",
+    "img": "./img/NaRede_N16.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "Anunciamos nas nossas redes essa grande novidade: a WE Impact agora é signatária  Pacto Global da ONU! Além de apoiar as ações de engajamento do setor privado em pautas ligadas ao ODS 5 (voltado à equidade de gênero), chegamos também como empresa parceira. Veja o post para saber qual será nossa missão.",
+    "linkBotao": "https://www.linkedin.com/feed/update/urn:li:activity:6886007947252563968/",
+    "botao": "[Veja o post]"
+  },
+  "saveTheDate": {
+    "tituloSecao": "#WEImpactIndica",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "ONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSON",
+    "linkBotao": "https://www.sebrae.com.br/sites/PortalSebrae/startupday2021/home",
+    "botao": "Veja a programação completa"
+  },
+  "footer": {
+    "chamada": "Recebeu este email de alguém?",
+    "linkBotao": "https://startups.weimpact.tech/we-impact-news?utm_source=Newsletter&utm_medium=email&utm_campaign=newsletter",
+    "botao": "Assine a WE Impact News",
+    "linkLinkedin": "https://www.linkedin.com/company/weimpact-tech",
+    "imgLinkedin": "https://weimpact-tech.github.io/newsletter-4/img/linkedin-icon.png",
+    "altLinkedin": "Linkedin",
+    "linkInstagram": "https://www.instagram.com/weimpact.tech/",
+    "imgInstagram": "https://weimpact-tech.github.io/newsletter-4/img/insta-icon.png",
+    "altInstagram": "Instagram"
+  }
+}
